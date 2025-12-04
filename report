@@ -1,0 +1,36 @@
+# Rapport — Analyse de SeriesGlobales
+
+## 1. Introduction  
+- Contexte & objectif  
+- Description des données (source, période, variables…)
+
+## 2. Données & Méthodes  
+- Nettoyage / traitement  
+- Variables étudiées  
+- Méthodes statistiques utilisées (ACP, régression, …)  
+
+## 3. Analyse descriptive  
+- Statistiques de base (moyennes, médianes, etc.)  
+- Distributions, histogrammes, corrélations  
+
+## 4. ACP  
+- Variance expliquée  
+- Description des composantes principales  
+- Interprétation des axes  
+
+## 5. Modélisation  
+- Régression linéaire multiple : résultats, interprétation  
+- (Optionnel) ANOVA / régression logistique : résultats  
+
+## 6. Discussion / Limites  
+- Validité des modèles (hypothèses)  
+- Limitations des données  
+- Ce qu’on peut (ou ne peut pas) conclure  
+
+## 7. Conclusion & Perspectives  
+- Synthèse des résultats  
+- Pistes d’amélioration / analyses futures  
+
+## 8. Références  
+
+> **Annexe — Code R complet** : insérer ou faire un lien vers `R/analysis.R`
